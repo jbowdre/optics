@@ -100,10 +100,10 @@ Rule {
         Domain("|devdocs.io|")
     },
     Matches {
-        Domain("|docs.saltproject.io|")
+        Site("|docs.saltproject.io|")
     },
     Matches {
-        Domain("|developer.hashicorp.com|")
+        Site("|developer.hashicorp.com|")
     },
     Matches {
         Domain("|go.dev|")
